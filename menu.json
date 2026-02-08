@@ -1,0 +1,202 @@
+{
+  "categories": [
+    {
+      "name": "Makarnalar",
+      "products": [
+        { "name": "Penne Polo", "ingredients": "Mantar, tavuk, penne makarna, köri, krema" },
+        { "name": "Spaghetti Napoliten", "ingredients": "Domates sosu, spaghetti makarna" },
+        { "name": "Spaghetti Bolonez", "ingredients": "Kıyma, domates sosu, kapya biber, spaghetti makarna" },
+        { "name": "Penne Napoliten", "ingredients": "Domates sosu, penne makarna" },
+        { "name": "Penne Alfredo", "ingredients": "Tavuk, mantar, krema, kaşar peyniri, penne makarna" },
+        { "name": "Fettuccine Alfredo", "ingredients": "Tavuk, mantar, krema, kaşar peyniri, fettuccine makarna" }
+      ]
+    },
+    {
+      "name": "Wrap & Quesadilla",
+      "products": [
+        { "name": "Tavuk Wrap", "ingredients": "Tavuk, çarliston biber, kapya biber, mantar, kaşar peyniri, patates kızartması, salata" },
+        { "name": "Köfte Wrap", "ingredients": "Köfte, çarliston biber, kapya biber, mantar, kaşar peyniri, patates kızartması, salata" },
+        { "name": "Et Wrap", "ingredients": "Et, soğan, çarliston biber, kapya biber, mantar, kaşar peyniri, patates kızartması, salata" },
+        { "name": "Quesadilla (Tavuklu)", "ingredients": "Tavuk, çarliston biber, kapya biber, mantar, kaşar peyniri, patates kızartması, salata" }
+      ]
+    },
+    {
+      "name": "Pizzalar",
+      "products": [
+        { "name": "Vejetaryen Pizza", "ingredients": "Pizza sosu, mısır, mantar, peynir, kapya biber, çarliston biber, patates" },
+        { "name": "Klasik Pizza", "ingredients": "Pizza sosu, peynir, kapya biber, çarliston biber, zeytin, sucuk, sosis, mısır, patates kızartması" },
+        { "name": "Mexican Pizza", "ingredients": "Pizza sosu, peynir, kapya biber, çarliston biber, jalapeno biber, sucuk, pul biber, sosis, salam, mısır, patates kızartması" },
+        { "name": "Kaşarlı Pizza", "ingredients": "Pizza sosu, peynir, domates, patates kızartması" },
+        { "name": "Sucuklu Pizza", "ingredients": "Pizza sosu, peynir, sucuk, domates, patates kızartması" },
+        { "name": "Tavuklu Pizza", "ingredients": "Pizza sosu, peynir, tavuk, domates, patates kızartması" },
+        { "name": "Kavurmalı Pizza", "ingredients": "Pizza sosu, peynir, kavurma, patates kızartması" },
+        { "name": "Margherita Pizza", "ingredients": "Domates sosu, peynir, patates kızartması" },
+        { "name": "101 Pizza", "ingredients": "Pizza sosu, peynir, kavurma, biber, cheddar peyniri, mantar, domates, turşu, mısır, patates" }
+      ]
+    },
+    {
+      "name": "Tavuk Yemekleri",
+      "products": [
+        { "name": "Köri Soslu Tavuk", "ingredients": "Tavuk, mantar, kapya biber, çarliston biber, köri, krema, patates kızartması, makarna, salata" },
+        { "name": "Barbekü Soslu Tavuk", "ingredients": "Tavuk, mantar, kapya biber, çarliston biber, barbekü sos, krema, patates kızartması, makarna, salata" },
+        { "name": "Kremalı Mantarlı Tavuk", "ingredients": "Tavuk, mantar, krema, patates kızartması, makarna, salata" },
+        { "name": "Dağ Kekikli Tavuk", "ingredients": "Tavuk, mantar, krema, dağ kekiği, patates kızartması, makarna, salata" },
+        { "name": "Pesto Soslu Tavuk", "ingredients": "Tavuk, mantar, krema, pesto sos, patates kızartması, makarna, salata" },
+        { "name": "Tavuk Fajita", "ingredients": "Tavuk, çarliston biber, kapya biber, soğan, soya sosu" }
+      ]
+    },
+    {
+      "name": "Et Yemekleri",
+      "products": [
+        { "name": "Izgara Köfte (5 Adet)", "ingredients": "Köfte, salata, patates kızartması, pilav veya makarna" },
+        { "name": "Et Fajita", "ingredients": "Et, çarliston biber, kapya biber, soğan" }
+      ]
+    },
+    {
+      "name": "Burgerler",
+      "products": [
+        { "name": "Klasik Burger", "ingredients": "Köfte, domates, turşu, marul, ketçap, mayonez, patates kızartması" },
+        { "name": "Barbekü Burger", "ingredients": "Köfte, domates, turşu, marul, BBQ sos, patates kızartması" },
+        { "name": "Cheese Burger", "ingredients": "Köfte, cheddar peyniri, domates, turşu, marul, BBQ sos, patates kızartması" },
+        { "name": "Smoky Burger", "ingredients": "Et, domates, turşu, marul, mayonez, ketçap, cheddar peyniri, soğan, patates kızartması" },
+        { "name": "101 Burger", "ingredients": "Double köfte, mayonez, ketçap, hardal, domates, turşu, marul, cheddar peyniri, patates kızartması" }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        { "name": "Mevsim Salata", "ingredients": "Mevsim yeşillikleri, domates, salatalık, beyaz peynir, mevsim meyvesi" },
+        { "name": "Tavuklu Salata", "ingredients": "Mevsim yeşillikleri, domates, salatalık, tavuk" },
+        { "name": "Ton Balıklı Salata", "ingredients": "Mevsim yeşillikleri, domates, salatalık, ton balığı" },
+        { "name": "Sezar Salata", "ingredients": "Göbek marul, kızarmış ekmek, ızgara tavuk, sezar sos, domates" }
+      ]
+    },
+    {
+      "name": "Atıştırmalıklar",
+      "products": [
+        { "name": "Patates Tabağı", "ingredients": "Patates kızartması" },
+        { "name": "Karışık 1", "ingredients": "Patates kızartması, 2 sigara böreği, 2 soğan halkası, 2 nugget" },
+        { "name": "Karışık 2", "ingredients": "Patates kızartması, 4 sigara böreği, 4 soğan halkası, 4 nugget" },
+        { "name": "Sigara Böreği", "ingredients": "9 adet" }
+      ]
+    },
+    {
+      "name": "Sıcak Kahveler",
+      "products": [
+        { "name": "Espresso", "ingredients": "" },
+        { "name": "Americano", "ingredients": "" },
+        { "name": "Filtre Kahve", "ingredients": "" },
+        { "name": "Latte", "ingredients": "" },
+        { "name": "Cappuccino", "ingredients": "" },
+        { "name": "Macchiato", "ingredients": "" },
+        { "name": "White Mocha", "ingredients": "" },
+        { "name": "Caramel Latte", "ingredients": "" },
+        { "name": "Türk Kahvesi", "ingredients": "" },
+        { "name": "Menengiç Kahvesi", "ingredients": "" },
+        { "name": "Dibek Kahvesi", "ingredients": "" }
+      ]
+    },
+    {
+      "name": "Soğuk İçecekler",
+      "products": [
+        { "name": "Limonata", "ingredients": "" },
+        { "name": "Naneli Limonata", "ingredients": "" },
+        { "name": "Ice Chocolate", "ingredients": "" },
+        { "name": "Milkshake (Çikolata)", "ingredients": "" },
+        { "name": "Milkshake (Çilek)", "ingredients": "" },
+        { "name": "Milkshake (Muz)", "ingredients": "" },
+        { "name": "Smoothie (Orman Meyveli)", "ingredients": "" },
+        { "name": "Smoothie (Mango)", "ingredients": "" }
+      ]
+    },
+    {
+      "name": "Soğuk Dolap İçecekleri",
+      "products": [
+        { "name": "Coca-Cola", "ingredients": "" },
+        { "name": "Coca-Cola Zero", "ingredients": "" },
+        { "name": "Fanta", "ingredients": "" },
+        { "name": "Sprite", "ingredients": "" },
+        { "name": "Pepsi", "ingredients": "" },
+        { "name": "Yedigün", "ingredients": "" },
+        { "name": "Cappy Limon", "ingredients": "" },
+        { "name": "Cappy Şeftali", "ingredients": "" },
+        { "name": "Cappy Elma", "ingredients": "" },
+        { "name": "Cappy Vişne", "ingredients": "" },
+        { "name": "Tropicana Karışık", "ingredients": "" },
+        { "name": "Tropicana Vişne", "ingredients": "" }
+      ]
+    },
+    {
+      "name": "Enerji İçecekleri",
+      "products": [
+        { "name": "Red Bull", "ingredients": "" },
+        { "name": "Red Bull Elma", "ingredients": "" },
+        { "name": "Red Bull Tropik Meyve", "ingredients": "" },
+        { "name": "Red Bull Karpuz", "ingredients": "" },
+        { "name": "Red Bull Hindistan Cevizi", "ingredients": "" },
+        { "name": "Red Bull Yaban Mersini", "ingredients": "" }
+      ]
+    },
+    {
+      "name": "Fuse Tea",
+      "products": [
+        { "name": "Fuse Tea Şeftali", "ingredients": "" },
+        { "name": "Fuse Tea Limon", "ingredients": "" },
+        { "name": "Fuse Tea Karpuz & Nane", "ingredients": "" },
+        { "name": "Fuse Tea Kavun", "ingredients": "" },
+        { "name": "Fuse Tea Böğürtlen", "ingredients": "" },
+        { "name": "Fuse Tea Mango", "ingredients": "" },
+        { "name": "Fuse Tea Ananas", "ingredients": "" }
+      ]
+    },
+    {
+      "name": "Frutti",
+      "products": [
+        { "name": "Frutti Orman Meyveli", "ingredients": "" },
+        { "name": "Frutti Portakal", "ingredients": "" },
+        { "name": "Frutti Mandalina", "ingredients": "" },
+        { "name": "Frutti Yeşil Limon", "ingredients": "" }
+      ]
+    },
+    {
+      "name": "Schweppes",
+      "products": [
+        { "name": "Schweppes Mandalina", "ingredients": "" },
+        { "name": "Schweppes Limon", "ingredients": "" }
+      ]
+    },
+    {
+      "name": "Bitki Çayları",
+      "products": [
+        { "name": "Ihlamur", "ingredients": "" },
+        { "name": "Papatya", "ingredients": "" },
+        { "name": "Adaçayı", "ingredients": "" },
+        { "name": "Rezene", "ingredients": "" },
+        { "name": "Nane Limon", "ingredients": "" },
+        { "name": "Yeşil Çay", "ingredients": "" }
+      ]
+    },
+    {
+      "name": "Kokteyller (Alkolsüz)",
+      "products": [
+        { "name": "Virgin Mojito", "ingredients": "" },
+        { "name": "Strawberry Fresh", "ingredients": "" },
+        { "name": "Green Apple Fizz", "ingredients": "" },
+        { "name": "Energy Mocktail", "ingredients": "" }
+      ]
+    },
+    {
+      "name": "Nargile",
+      "products": [
+        { "name": "Elma", "ingredients": "Nargile aroması" },
+        { "name": "Nane", "ingredients": "Nargile aroması" },
+        { "name": "Limon", "ingredients": "Nargile aroması" },
+        { "name": "Üzüm", "ingredients": "Nargile aroması" },
+        { "name": "Love 66", "ingredients": "Nargile aroması" },
+        { "name": "Adalya Mix", "ingredients": "Üzüm, nane aroması" },
+        { "name": "Lady Killer", "ingredients": "Mango, çilek, mentol aroması" },
+        { "name": "Limon Mint", "ingredients": "Limon, nane aroması" }
+      ]
+    }
+  ]
+}
